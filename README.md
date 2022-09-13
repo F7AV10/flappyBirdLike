@@ -14,7 +14,8 @@ Fiz uma adaptação do jogo Flappy Bird em winForms e C#<br/>
  - O objetivo do jogo é desviar do obstaculos passando atraves dos "canos".<br/>
  - Essa é uma versão de teste da logica basica<br/>
  - Ao alcançar pontuações mais altas o nivel do jogo aumenta, ficando mais rapido.<br/>
-</div>
+</div><br/>
+
 ## Detalhes
 <img src="https://github.com/F7AV10/flappyBirdLike/blob/main/screenFlappyInfos.png" /><br/>
 <img src="https://github.com/F7AV10/flappyBirdLike/blob/main/birdCollisionBox.png" /><br/>
