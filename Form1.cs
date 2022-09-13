@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
@@ -7,8 +7,8 @@ using System.Windows.Forms;
 
 //////////////////////////////////////////////////////////////////////////////////////////
 // EXERCICIO FEITO POR FLÁVIO NEVES - GITHUB https://github.com/F7AV10                  ///
-// UMA CALCULADORA SIMPLES FEITA EM C# E WINFORMS, TESTANDO CONHECIMENTOS ADQUIRIDOS    ///
-// COM O EXERCICIO DO PONG - https://github.com/F7AV10/pingPong                         ///
+// flappyBirdLike EM C# E WINFORMS, TESTANDO CONHECIMENTOS ADQUIRIDOS COM OS ESTUDOS    ///
+// LIVRE PARA USAR COM ATRIBUIÇÃO DO LINK - https://github.com/F7AV10                   ///
 //////////////////////////////////////////////////////////////////////////////////////////
 
 namespace flappyBird
