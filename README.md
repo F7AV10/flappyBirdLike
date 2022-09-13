@@ -26,7 +26,7 @@ no centro do player, limitando assim a area de contado da imagem do player.
 
 ```bash
 # clonar repositório
-git clone https://github.com/F7AV10/pingPong
+git clone https://github.com/F7AV10/flappyBirdLike
 
 ```
 
