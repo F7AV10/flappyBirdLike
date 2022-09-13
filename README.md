@@ -7,6 +7,8 @@
 Fiz uma adaptação do jogo Flappy Bird em winForms e C#<br/>
  
  Os codigos dentro do Form1.cs estão comentados para melhor compreensão.
+ ## Telas do Jogo
+<img src="https://github.com/F7AV10/flappyBirdLike/blob/main/screenFlappy2.png" /><br/>
 
  - Apertando a tecla "ESPAÇO" do teclado o jogador faz o passaro pegar um empulso<br/>
  - O objetivo do jogo é desviar do obstaculos passando atraves dos "canos".<br/>
@@ -33,4 +35,5 @@ git clone https://github.com/F7AV10/flappyBirdLike
 ## Autor
 Flávio Nascimento Santos Neves
 https://github.com/F7AV10<br/>
+LIVRE PARA USAR COM ATRIBUIÇÃO DO LINK - https://github.com/F7AV10
 
