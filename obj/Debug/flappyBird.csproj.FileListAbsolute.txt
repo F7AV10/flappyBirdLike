@@ -1,0 +1,10 @@
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\bin\Debug\flappyBird.exe.config
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\bin\Debug\flappyBird.exe
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\bin\Debug\flappyBird.pdb
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.csprojAssemblyReference.cache
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.Properties.Resources.resources
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.csproj.GenerateResource.cache
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.csproj.CoreCompileInputs.cache
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.exe
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.pdb
+D:\PROJETOS_VS\source\repos\flappyBird\flappyBird\obj\Debug\flappyBird.passaroVoador.resources
