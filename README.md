@@ -6,7 +6,7 @@
  Este é um exercicio para pratica de conhecimento.<br/>
 Fiz uma adaptação do jogo Flappy Bird em winForms e C#<br/>
  
- Os codigos dentro do form.cs estão comentados para melhor compreensão.
+ Os codigos dentro do Form1.cs estão comentados para melhor compreensão.
 
  - Apertando a tecla "ESPAÇO" do teclado o jogador faz o passaro pegar um empulso<br/>
  - O objetivo do jogo é desviar do obstaculos passando atraves dos "canos".<br/>
