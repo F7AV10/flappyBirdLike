@@ -5,6 +5,12 @@ using System.Drawing;
 using System.Text;
 using System.Windows.Forms;
 
+//////////////////////////////////////////////////////////////////////////////////////////
+// EXERCICIO FEITO POR FLÁVIO NEVES - GITHUB https://github.com/F7AV10                  ///
+// UMA CALCULADORA SIMPLES FEITA EM C# E WINFORMS, TESTANDO CONHECIMENTOS ADQUIRIDOS    ///
+// COM O EXERCICIO DO PONG - https://github.com/F7AV10/pingPong                         ///
+//////////////////////////////////////////////////////////////////////////////////////////
+
 namespace flappyBird
 {
     public partial class passaroVoador : Form
